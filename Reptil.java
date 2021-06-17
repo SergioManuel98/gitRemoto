@@ -5,7 +5,9 @@ enum EspecieReptil {
 }
 
 public class Reptil extends Animal {
-    // Atributos
+    
+
+
     private final EspecieReptil especie;
     private boolean venenoso;
     

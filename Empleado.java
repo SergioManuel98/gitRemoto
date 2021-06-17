@@ -9,7 +9,7 @@ public class Empleado {
     private int antiguedad = 0;
     private Empleado jefe;
 
-    //CONSTRUCTORES
+    
     public Empleado(String nombre, String apellidos) {
         this.nombre = nombre;
         this.apellidos = apellidos;
